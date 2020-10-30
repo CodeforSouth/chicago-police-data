@@ -1,4 +1,6 @@
-# Chicago Police Data
+# Miami Police Data | Badge Watch 
+
+This is a reimplementation of a project-based in Chicago for the City of Miami
 
 ## What is this?
 
